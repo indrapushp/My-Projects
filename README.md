@@ -1,6 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Pushpendra Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="300" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fmale-computer-programmer-coding-front-monitor_225297-118.jpg&tbnid=6PXar5OZC5irWM&vet=10CAoQxiAoAWoXChMIgNPv6frIhwMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fmale-computer-programmer-coding-front-monitor_70544954.htm&docid=EQJl9pvtCejn8M&w=626&h=417&itg=1&q=coding%20anime&ved=0CAoQxiAoAWoXChMIgNPv6frIhwMVAAAAAB0AAAAAEAc](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.hdqwalls.com%2Fdownload%2Fthe-cyber-room-q9-1920x1080.jpg&tbnid=ZjHNoPPHWdoAjM&vet=10CAgQxiAoC2oXChMIgNPv6frIhwMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fhdqwalls.com%2Fwallpaper%2F1920x1080%2Fthe-cyber-room&docid=t6S0eyfXgF-lVM&w=1920&h=1080&itg=1&q=coding%20anime&ved=0CAgQxiAoC2oXChMIgNPv6frIhwMVAAAAAB0AAAAAEAc)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrapushp&label=Profile%20views&color=0e75b6&style=flat" alt="indrapushp" /> </p>
 
 - 🔭 I’m currently working on **Bank Marketing**
